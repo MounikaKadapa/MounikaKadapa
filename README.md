@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mounika Kadapa  
 
 🎯 **QA Automation and Manual Testing Engineer**  
-I’m passionate about delivering high-quality software through both automation and manual testing. With 4+ years of experience, I specialize in designing, executing, and maintaining end-to-end test strategies for web, API, and mobile applications. I focus on building efficient frameworks and ensuring every release meets top quality standards.
+I’m passionate about delivering high-quality software through both automation and manual testing. With 10+ years of experience, I specialize in designing, executing, and maintaining end-to-end test strategies for web, API. I focus on building efficient frameworks and ensuring every release meets top quality standards.
 
 ---
 
@@ -38,7 +38,7 @@ I’m passionate about delivering high-quality software through both automation 
 
 ## 📫 Connect with Me
 💼 [LinkedIn](https://www.linkedin.com/in/mounikakadapa/)  
-📧 mounikakadapa205@gmail.com  
+📧 mounikakadapa653@gmail.com  
 
 ---
 
